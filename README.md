@@ -1,7 +1,7 @@
 # Laboratorio-7
 
-Mariú Correa David López
-## INFORME LABORATORIO 6
+Mariú Correa      David López
+## INFORME LABORATORIO 7
 FDC 4877
 - Mariú Correa
 - David López
