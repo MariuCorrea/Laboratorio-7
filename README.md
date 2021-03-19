@@ -30,6 +30,10 @@ FDC 4877
 ![DIAGRAMA 2](https://user-images.githubusercontent.com/76136049/111733654-68118900-8846-11eb-8b72-73a713c7e818.PNG)
 ![DIAGRAMA 3](https://user-images.githubusercontent.com/76136049/111733655-68118900-8846-11eb-96f8-11fd34e05223.PNG)
 
+### LISTA DE COMPONENTES
+
+![Lista de componentes](https://user-images.githubusercontent.com/76136485/111736205-5f6f8180-884b-11eb-9ad4-eb542a0d5410.png)
+
 ### EXPLICACIÓN
 https://youtu.be/Hwbuktm0un0
 
